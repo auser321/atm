@@ -13,3 +13,4 @@ Advantages :
   4. Can provde an accurate data regarding Date an Time of Transaction as well as Amount
   5. We can add New feautres such as : Transaction ID's and many More.
   6. Compatible with Most Devices
+  7. Comments for better Understanding and Modifications
